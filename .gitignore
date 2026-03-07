@@ -1,0 +1,19 @@
+# Dependências Node
+node_modules/
+
+# Variáveis de ambiente (NUNCA subir isso!)
+.env
+
+# Build TypeScript
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
